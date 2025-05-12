@@ -1,2 +1,2 @@
-# Ashes-Of-Purity-Releases
+# Ashes Of Purity
 Ashes of Purity - Game Releases
